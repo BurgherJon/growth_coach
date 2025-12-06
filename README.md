@@ -11,6 +11,13 @@ This Growth Mindset Coach provides:
 - Built-in Google search capabilities for enhanced coaching resources
 - Configurable AI models for different coaching scenarios
 
+## Blog Posts
+
+Learn more about the development journey of this project:
+- [Growth Mindset Coach: The Idea in Principle](https://jonathancavell.com/growth-mindset-coach-the-idea-in-principle/) - Explores the core concept and motivation behind creating an AI-powered growth mindset coaching tool.
+- [Growth Mindset Coach: A Low-Code Version](https://jonathancavell.com/growth-mindset-coach-a-low-code-version/) - Documents the initial implementation using low-code approaches and tools.
+- [Growth Mindset Coach: The ADK Version](https://jonathancavell.com/growth-mindset-coach-the-adk-version/) - Details the evolution to using Google's Agent Development Kit (ADK) for enhanced functionality.
+
 ## Features
 
 - **Personalized Coaching**: Uses high-quality AI models for meaningful coaching conversations
